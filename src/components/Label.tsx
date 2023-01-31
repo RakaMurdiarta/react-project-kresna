@@ -1,8 +1,6 @@
 import React from 'react'
+import { LabelProps } from './LabelProps.types'
 
-type LabelProps={
-    label:string
-}
 
 const Label = ({label}:LabelProps) => {
   return (
