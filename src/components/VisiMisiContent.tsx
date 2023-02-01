@@ -1,9 +1,9 @@
 import React from 'react'
-import Label from './Label'
+import Label from './Atoms/Title'
 
 interface Content {
-    title:string,
-    paragraphText:string
+    title: string,
+    paragraphText: string
 }
 
 const VisiMisiContent = ({ title, paragraphText }: Content) => {

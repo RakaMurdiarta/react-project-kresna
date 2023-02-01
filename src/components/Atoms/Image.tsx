@@ -1,5 +1,5 @@
 import React from 'react'
-import { LabelProps } from './LabelProps.types'
+import { LabelProps } from '../LabelProps.types'
 
 const Image = ({ label }: LabelProps) => {
     return (
