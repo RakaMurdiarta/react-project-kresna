@@ -1,15 +1,15 @@
 import React from 'react'
-import ContactGallery from './Organisms/ContactGallery'
-import Deals from './Organisms/Deals'
-import Feature from './Organisms/Feature'
+import ContactGallery from '../Organisms/ContactGallery'
+import Deals from '../Organisms/Deals'
+import Feature from '../Organisms/Feature'
 
-import MyBlog from './Organisms/MyBlog'
-import Hero from './Organisms/Hero'
-import Navbar from './Organisms/Navbar'
+import MyBlog from '../Organisms/MyBlog'
+import Hero from '../Organisms/Hero'
+import Navbar from '../Organisms/Navbar'
 
-import Review from './Organisms/Review'
-import Services from './Organisms/Services'
-import Profile from './Organisms/Profile'
+import Review from '../Organisms/Review'
+import Services from '../Organisms/Services'
+import Profile from '../Organisms/Profile'
 
 const Home = () => {
     return (
